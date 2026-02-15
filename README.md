@@ -39,4 +39,14 @@ The Machine Learning Algorithms under consideration are:
 ![alt text](images/ml_assignment_cancer.png)
 ![alt text](images/ml_assignment_cancer1.png)
 
+### Path to test file
+
+You can find the test file to be uploaded into streamlit app under test folder (test.csv).
+
+### Execution on Streamlit cloud
+
+![alt text](images/streamlit1.png)
+![alt text](images/streamlit2.png)
+![alt text](images/streamlit3.png)
+
 
