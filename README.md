@@ -34,3 +34,9 @@ The Machine Learning Algorithms under consideration are:
 
 [ML Assignment – Cancer Detection (GitHub Repository)](https://github.com/2025aa05577-srikanth/ml_assignment_cancerdetection)
 
+### Execution on virtual lab
+
+![alt text](images/ml_assignment_cancer.png)
+![alt text](images/ml_assignment_cancer1.png)
+
+
