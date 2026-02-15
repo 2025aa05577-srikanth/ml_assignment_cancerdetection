@@ -29,3 +29,8 @@ The Machine Learning Algorithms under consideration are:
 ### Streamlit url
 
 [ML Assignment – Cancer Detection App](https://mlassignmentcancerdetection-bcafzsjpmq9rrturkerz2i.streamlit.app/)
+
+### Github repo
+
+[ML Assignment – Cancer Detection (GitHub Repository)](https://github.com/2025aa05577-srikanth/ml_assignment_cancerdetection)
+
